@@ -1,3 +1,7 @@
-**Chit Chat Unblocker**: The Gateway to Unrestricted Internet Access
+# EZ-Static
 
-Experience a seamless and unrestricted internet with Chit Chat Unblocker, your premier web proxy solution. Our platform offers a plethora of features, ensuring a smooth and secure browsing experience. Currently in beta, we are continuously working to introduce more exciting features. Stay tuned for upcoming updates and more!
+**This is NOT completely mine**  
+Static proxy based on ChitChatUnblocker by VividElitezz, this static proxy has been stripped to JUST a proxy, making it easer to modify and fork.
+Currently, this only works when deployed on the root github pages site (user.github.io) 
+
+Thanks to vividelitezz and other people working on this project
