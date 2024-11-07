@@ -1,7 +1,9 @@
 # EZ-Static
 
-**This is NOT completely mine**  
-Static proxy based on ChitChatUnblocker by VividElitezz, this static proxy has been stripped to JUST a proxy, making it easer to modify and fork.
+Fully static proxy that *actually works*
+
 Currently, this only works when deployed on the root github pages site (user.github.io) 
 
-Thanks to vividelitezz and other people working on this project
+To use, simply fork this project and deploy it to github pages (settings>pages>deploy to main branch)
+
+based (loosly) on vividelitezz ChitChatUnblocker, although not really, almost everything was changed exept the ultraviolet stuff.
