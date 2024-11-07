@@ -1,4 +1,4 @@
-<p align="center"><img src="img/ez-static.png" height="200"></p>
+<p align="center"><img src="img/lightning-static.png" height="200"></p>
 <h1 align="center">Lightning-Static</h1>
 <p align="center">Fully static proxy that actually works!</p>
 
