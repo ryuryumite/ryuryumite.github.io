@@ -1,5 +1,5 @@
 <p align="center"><img src="img/ez-static.png" height="200"></p>
-<h1 align="center">Ez-Static</h1>
+<h1 align="center">Lightning-Static</h1>
 <p align="center">Fully static proxy that actually works!</p>
 
 > [!IMPORTANT]
@@ -15,16 +15,16 @@
 - Based on ultraviolet
 
 
+## Editing
+- To edit the home page, edit server.html, not index.html, as index.html handles cloaking.
+- Try to leave in the credits!
+
 
 ## To-Do
 - [ ] Add games
 - [ ] Make it look better
 - [x] Add about:blank cloaking
 
-
-## Editing
-- To edit the home page, edit server.html, not index.html, as index.html handles cloaking.
-- Try to leave in the credits!
 
 ## How to Deploy
 1. Fork this repo and name it yourusername.github.io. (If you name it anything else it will not work)
