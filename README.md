@@ -30,4 +30,4 @@
 
 ## Credits
 
-This is a fork from vividelitezz's ChitChatUnblocker. However, almost everything was changed except the ultraviolet stuff. I am not saying that this code is completely mine, but most (If not all) of the orginal CCU code was replaced. Anyway, 
+This is a fork from vividelitezz's ChitChatUnblocker. However, almost everything was changed except the ultraviolet stuff. I am not saying that this code is completely mine, but most (If not all) of the orginal CCU code was replaced.
