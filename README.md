@@ -15,7 +15,7 @@
 
 
 ## Editing
-- To edit the home page, edit server.html, not index.html, as index.html handles cloaking.
+- To edit the home page, edit server.html, not index.html, as index.html handles the iframe.
 - Try to leave in the credits!
 
 
