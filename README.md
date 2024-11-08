@@ -9,7 +9,6 @@
 ## Features
 - Works on github pages
 - Fully static
-- About:blank cloaking
 - Simple, clean, easy to use UI
 - Easy to fork and edit
 - Based on ultraviolet
@@ -23,7 +22,6 @@
 ## To-Do
 - [ ] Add games
 - [ ] Make it look better
-- [x] Add about:blank cloaking
 
 
 ## How to Deploy
@@ -37,4 +35,4 @@
 > You will have to wait a little before you reload your page for the "visit" section to show up.
 
 ## Credits
-This is a fork from vividelitezz's ChitChatUnblocker. However, almost everything was changed except the ultraviolet stuff. I am not saying that this code is completely mine, but most (If not all) of the orginal CCU code was replaced.
+This is a fork from vividelitezz's ChitChatUnblocker. However, almost everything was changed except the ultraviolet stuff. I am not saying that this code is completely mine, but most (If not all) of the orginal CCU code was replaced, except the ultraviolet and search stuff. But, this is just for fun. I do not intend to steal anyone's work.
