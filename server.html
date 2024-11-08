@@ -3,37 +3,69 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
+    <title>Home</title>
+    <link rel="icon" type="image/x-icon" href="assets/img/google.png" />
     <style>
       body {
         background-color: #6da6ff;
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
         display: flex;
         justify-content: center;
         align-items: center;
         height: 100vh;
-        margin: 0;
         text-align: center;
       }
-      .container {
-        padding: 20px;
+
+      .header-container {
+        width: 80%;
+        max-width: 1000px;
         background: rgba(255, 255, 255, 0.9);
-        border-radius: 8px;
+        padding: 40px 20px;
+        border-radius: 15px;
         box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
-        max-width: 400px; /* Limit the maximum width of the container */
-        width: 100%; /* Make it responsive */
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
       }
+
+      .header {
+        margin: 0;
+        font-size: 72px;
+        font-weight: bold;
+        color: #333;
+      }
+
+      .description {
+        font-size: 30px;
+        margin-top: 10px;
+        color: #333;
+      }
+
       .input {
         margin-top: 10px;
-        padding: 10px;
-        border-radius: 5px;
-        border: 1px solid #ccc;
-        width: 100%; /* Full width of the container */
-        box-sizing: border-box; /* Include padding and border in the element's total width */
+        padding: 20px;
+        font-size: 24px;
+        width: 100%;
+        max-width: 1000px;
+        border-radius: 8px;
+        border: 2px solid #ccc;
+        box-sizing: border-box;
+        text-align: center;
+        height: 60px;
+      }
+
+      .input::placeholder {
+        color: #888;
+        text-align: center;
+        vertical-align: middle;
       }
     </style>
   </head>
   <body>
-    <div class="container">
+    <div class="header-container">
       <h1 class="header">Lightning-Static</h1>
       <p class="description">By Lebbie</p>
       <input
@@ -43,8 +75,8 @@
         name="search"
         placeholder="Search or enter a URL"
       />
-      <!-- Input field only -->
     </div>
+
     <script src="./uv/uv.bundle.js"></script>
     <script src="./uv/uv.config.js"></script>
     <script src="./assets/register-sw.js"></script>
