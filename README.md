@@ -8,9 +8,9 @@
 
 ## Features
 - Works on github pages
+- Fully static
 - About:blank cloaking
 - Simple, clean, easy to use UI
-- Fully static
 - Easy to fork and edit
 - Based on ultraviolet
 
