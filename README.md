@@ -21,7 +21,7 @@
 
 ## To-Do
 - [ ] Add games
-- [ ] Make it look better
+- [x] Make it look better
 
 
 ## How to Deploy
