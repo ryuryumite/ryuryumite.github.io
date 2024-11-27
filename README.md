@@ -19,11 +19,6 @@
 - Try to leave in the credits!
 
 
-## To-Do
-- [ ] Add games
-- [x] Make it look better
-
-
 ## How to Deploy
 1. Fork this repo and name it yourusername.github.io. (If you name it anything else it will not work)
 2. Under your repository name, click Settings. If you cannot see the "Settings" tab, select the dropdown menu, then click Settings.
